@@ -1,15 +1,5 @@
-Welcome to your new dbt project!
+Welcome to my first dbt Project
 
-### Using the starter project
+I first created a database in Postgres using NBA data I was using on a previous project. 
 
-Try running the following commands:
-- dbt run
-- dbt test
-
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+I have two models, one to make a copy of the table and one to create a view of the data where the player name is 'Stephen Curry'
